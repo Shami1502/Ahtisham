@@ -1,0 +1,36 @@
+.inputy{
+    border-radius: 7px;
+    height: 25px;
+    width: 100%;
+    background-color: rgb(253, 253, 244);
+}
+.inputy:hover{
+    border: 2px solid blue;
+}
+body{
+    background-color: rgb(219, 105, 124);
+}
+.main{
+    background-color: rgb(253, 253, 244);
+    margin-top: 10%;
+    margin-left: 35%;
+    width: 30%;
+    height: 30%;
+    border-radius: 8px;
+}
+.app{
+    padding: 40px;
+}
+label{
+    font-size: x-large;
+    padding-top: 20px;
+}
+.btn{
+    background-color: rgb(219, 105, 124) ;
+    color: black;
+    padding: 5px 8px;
+    float:right;
+    border: none;
+    font-size: 20px;
+    border-radius: 6px;
+}

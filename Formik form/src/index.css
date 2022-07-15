@@ -1,0 +1,23 @@
+.inputy{
+    border: none;
+    border-bottom: 2px solid black;
+    width: 100%;
+    background-color: rgb(253, 253, 244);
+}
+body{
+    background-color: rgb(14, 14, 155);
+}
+.main{
+    background-color: rgb(253, 253, 244);
+    margin-top: 10%;
+    margin-left: 35%;
+    width: 30%;
+    height: 30%;
+}
+.app{
+    padding: 40px;
+}
+label{
+    font-size: x-large;
+    padding-top: 20px;
+}
